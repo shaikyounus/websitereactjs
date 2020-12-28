@@ -80,7 +80,8 @@ module.exports = {
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
   }),
   
- let port=process.env.PORT||8080;
-
- app.listen(port),
+ const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log('Our app is running on port ${ PORT }');
+}),
 };
