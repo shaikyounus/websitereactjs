@@ -2,7 +2,7 @@
 date: '2'
 title: 'E-Commerce Website'
 cover: './shopping.PNG'
-github: 'https://github.com/shaikyounus'
+github: 'https://github.com/shaikyounus/E-CommerceWebsite'
 external: 'https://github.com/shaikyounus'
 tech:
   - PHP
