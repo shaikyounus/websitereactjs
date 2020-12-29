@@ -19,7 +19,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "set PORT=process.env.PORT || 3000 && npm run develop",
+    "start": "set PORT=process.env.PORT && npm run develop",
     "serve": "gatsby build & gatsby serve",
     "clean": "gatsby clean",
     "updateDate": "node .\\pre-push-script.js"
