@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
-    siteUrl: "https://anmolsingh.me",
+    siteUrl: "https://younusportfolio.herokuapp.com/",
     description: config.siteDescription,
   },
   plugins: [
