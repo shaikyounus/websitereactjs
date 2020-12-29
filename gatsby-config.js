@@ -118,7 +118,7 @@ module.exports = {
               // Values below are default
               prompt: {
                 user: 'root',
-                host: '0.0.0.0',
+                host: 'https://younusportfolio.herokuapp.com/',
                 global: false,
               },
             },
