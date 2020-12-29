@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
-    siteUrl: "https://shaikmohammadyounus.netlify.app/",
+    siteUrl: "",
     description: config.siteDescription,
   },
   plugins: [
