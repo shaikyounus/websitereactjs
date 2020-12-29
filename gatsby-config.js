@@ -118,7 +118,7 @@ module.exports = {
               // Values below are default
               prompt: {
                 user: 'root',
-                host: 'localhost',
+                host: 'https://www.heroku.com/',
                 global: false,
               },
             },
