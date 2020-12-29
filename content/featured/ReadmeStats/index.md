@@ -2,7 +2,7 @@
 date: '3'
 title: 'Real Estate Website'
 cover: './Screenshot.png'
-github: 'https://github.com/shaikyounus'
+github: 'https://github.com/shaikyounus/Real-EstateWebsite'
 external: 'https://github.com/shaikyounus'
 tech:
   - Python
