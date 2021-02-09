@@ -8,5 +8,5 @@ url: 'https://www.KindBeings.in/'
 ---
 
 - Developed PHP applications, WordPress websites and React Js web applications.
-- Developed Court Management System for organisation Government Clients.
+- Worked with Restful APIs.
 
