@@ -7,7 +7,7 @@ tech:
   - PHP
   - MYSQL
   - BootStrap
-company: 'KindBeings'
+company: ''
 showInProjects: true
 ---
-
+Built this website for VIT-AP School of Law using MySQL+ PHP.
