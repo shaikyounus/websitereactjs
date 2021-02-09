@@ -11,3 +11,4 @@ company: ''
 showInProjects: true
 ---
 Built this website for VIT-AP School of Law using MySQL+ PHP.
+This web project is deployed using InfinityFree cloud.
