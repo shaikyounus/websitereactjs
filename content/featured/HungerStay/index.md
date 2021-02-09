@@ -2,8 +2,8 @@
 date: '1'
 title: 'Swarm Robotics'
 cover: './SWARM.PNG'
-github: ''
-external: ''
+github: 'https://github.com/shaikyounus/Swarm-Robotics'
+external: 'https://youtu.be/ri4mkMTyC_w'
 tech:
   - Python
   - Microcontroller 8085
