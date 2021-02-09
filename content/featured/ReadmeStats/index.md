@@ -3,7 +3,7 @@ date: '3'
 title: 'Real Estate Website'
 cover: './Screenshot.png'
 github: 'https://github.com/shaikyounus/Real-EstateWebsite'
-external: 'https://github.com/shaikyounus'
+external: 'https://estatetestreal.herokuapp.com/'
 tech:
   - Python
   - Django
