@@ -2,7 +2,7 @@
 date: '2020-06-01'
 title: 'Android News App'
 github: 'https://github.com/shaikyounus/Android-News-App'
-external: 'https://docs.google.com/presentation/d/1QE4IZ1qxIXeOH5jrt7pEt6_15pzIgpAJYFxRRy7uGpw/edit?usp=sharing'
+external: 'https://youtu.be/-nXll4T79OI'
 tech:
   - Android Studio
   - Java
