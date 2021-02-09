@@ -1,12 +1,12 @@
 ---
-date: '1'
-title: 'Full Stack Software Intern'
-company: 'KindBeings'
-location: 'Pune, India'
-range: 'April 2020 - June 2020 '
-url: 'https://www.KindBeings.in/'
+date: '3'
+title: 'Marketing Intern'
+company: 'TATA POWER SOLAR SYSTEMS LTD'
+location: 'Hyderabad, India'
+range: 'June 2019 - July 2019 '
+url: 'https://www.tatapowersolar.com/'
 ---
 
-- Developed PHP applications, WordPress websites and React Js web applications.
-- Developed Court Management System for organisation Government Clients.
+- Brand Ambassador of Tata Power Solar Systems.
+- Marketing of Solar Products for Tata Power Solar.
 
