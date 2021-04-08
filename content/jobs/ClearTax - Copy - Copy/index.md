@@ -7,6 +7,6 @@ range: 'Febraury 2021 - Present '
 url: 'https://www.chegg.com/'
 ---
 
-- Providing Data Structures solutions to students.
+- Working as freelance Computer Science Expert and answering student queries in Computer Science.
 
 
