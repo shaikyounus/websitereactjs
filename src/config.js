@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'SHAIK MOHAMMAD YOUNUS | Computer Science Undergraduate',
+  siteTitle: 'SHAIK MOHAMMAD YOUNUS | Software Engineer III',
   siteDescription:
     'Shaik Mohammad Younus is a software engineer based in Banglore, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
