@@ -3,7 +3,7 @@ date: '3'
 title: 'CSE Subject Matter Expert'
 company: 'Chegg'
 location: 'Remote, India'
-range: 'Febraury 2021 - Present '
+range: 'Febraury 2021 - March 2022'
 url: 'https://www.chegg.com/'
 ---
 
