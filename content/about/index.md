@@ -3,23 +3,26 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Java
-  - Python
+  - Kotlin
   - Node.js
-  - Data Structures
+  - Elastic Search
   - MySQL
   - AWS/HEROKU
-  - Django/Flutter
-  - PHPMYADMIN
+  - Ktor
+  - PHP
   - REACT JS
-  - ANDROID STUDIO
-
+  - Web development
+  - Cloud Computing
+  - Data Structures
+  - Git
+  - Python
+  - DynamoDb
+  - Kibana
+  
 ---
 
-Hello! I'm Younus, Computer Science Undergraduate in Vellore Institute of Technology.
+Hello! I'm Younus.Shortly after graduating from [VIT UNIVERSITY](https://vitap.ac.in/), I joined the engineering team at [Shaadi.com](https://shaadi.com/) as Backend developer where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-
-<!--Shortly after graduating from [SRM University](https://www.srmist.edu.in/), I joined the engineering team at [ClearTax](https://www.cleartax.in/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
--->
 
 Here are a few technologies I've been working with recently:
