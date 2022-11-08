@@ -1,8 +1,8 @@
 ---
 date: '2020-07-12'
 title: 'Court Case Management System'
-github: ''
-external: 'http://court-case-management.epizy.com/'
+github: 'https://github.com/shaikyounus/Court_Case_Management'
+external: 'http://court-case-management.infinityfreeapp.com/'
 tech:
   - PHP
   - MYSQL
