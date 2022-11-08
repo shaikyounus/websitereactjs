@@ -2,11 +2,13 @@
 date: '3'
 title: 'CSE Subject Matter Expert'
 company: 'Chegg'
-location: 'Hyderabad, India'
+location: 'Remote, India'
 range: 'Febraury 2021 - Present '
 url: 'https://www.chegg.com/'
 ---
 
-- Working as freelance Computer Science Expert and answering student queries in Computer Science.
+- Solving solutions to advanced questions from Computer Science and Engineering textbooks.
+- Online answering of 200+ CSE questions posted by students such as data structures, programming and
+competitive coding.
 
 
