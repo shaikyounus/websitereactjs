@@ -4,7 +4,7 @@ title: 'Data Analyst Intern'
 company: '50Hands'
 location: 'Ontario, Canada'
 range: 'May 2020 - June 2020 '
-url: 'https://www.KindBeings.in/'
+url: 'https://50hands.org'
 ---
 
 - Write scripts files to automate the process of DATA ETL of Covid-19.
