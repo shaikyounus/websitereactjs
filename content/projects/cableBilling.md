@@ -2,7 +2,7 @@
 date: '2019-01-01'
 title: 'AWS Cloud Computing Project'
 github: 'https://github.com/shaikyounus/Cloud-Computing-AWS-EC2-web-project-deploy'
-external: 'https://docs.google.com/presentation/d/1JlYbXF6DLJUX1tS1eYNexhBwNShx69lUDCkwTCZvuRs/edit?usp=sharing'
+external: ''
 android: ''
 ios: ''
 tech:
