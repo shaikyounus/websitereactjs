@@ -5,6 +5,8 @@ skills:
   - Java
   - Kotlin
   - Node.js
+  - Java Script
+  - Node JS
   - Elastic Search
   - Kibana
   - MySQL
@@ -25,9 +27,10 @@ skills:
   - Microservices
   - AWS EC2
   - AWS Cloud Watch
+  - Vue JS
 ---
 
-Hello! I'm Younus. Currently I am doing my Masters degree at [University Of Illinois](https://www.uis.edu/), Spirngfield. Shortly after graduating from [VIT UNIVERSITY](https://vitap.ac.in/), I joined the engineering team at [Shaadi.com](https://shaadi.com/) as Backend developer(SDE3) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Hello! I'm Younus. Experienced Software Engineer with over 3 years of expertise in building scalable microservices, migrating monolithic architectures, and enhancing search functionalities for high-traffic applications. Proficient in Java, Kotlin, React Native, Vue JS and Aws Cloud, with hands-on experience in fraud detection, API development, and real-time data processing. Proven ability to reduce latency, improve system performance, and deliver secure, user-focused applications. Strong background in data analysis, interactive visualizations, and end-to-end web and mobile development.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
