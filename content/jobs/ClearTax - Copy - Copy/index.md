@@ -7,8 +7,8 @@ range: 'Febraury 2021 - March 2022'
 url: 'https://www.chegg.com/'
 ---
 
-- Solving solutions to advanced questions from Computer Science and Engineering textbooks.
-- Online answering of 200+ CSE questions posted by students such as data structures, programming and
-competitive coding.
+- Provided expert solutions to over 200 complex Computer Science problems, specializing in data structures, algorithms, and competitive coding, helping students enhance their understanding and problem-solving skills.
+- Tech Stack: Data Structures, Algorithms, Python, Java, C++, Competitive Coding.
+
 
 
