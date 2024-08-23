@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Mohammad Younus Shaik'
-subtitle: 'Experienced Full Stack Developer | Java, Kotlin, Node JS, React, Vue, AWS | CodeChef 3 ⭐ | Building microservices for website and mobile development'
+subtitle: 'Experienced Full Stack Developer | Building microservices for website and mobile development'
 buttonText: 'Get In Touch'
 ---
 
