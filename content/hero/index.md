@@ -1,9 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Shaik Mohammad Younus'
-subtitle: 'GPSI Intern | (Past Software Engineer III at Shaadi.com) |'
+name: 'Mohammad Younus Shaik'
+subtitle: 'Experienced Full Stack Developer | Java, Kotlin, Node JS, React, Vue, AWS | CodeChef 3 ⭐ | Building microservices for website and mobile development'
 buttonText: 'Get In Touch'
 ---
 
-Experienced Software developer with 3+ years of experience in optimizing applications for speed and scalability,
-data analyst, collaborating with front end developers and product management, and solving any challenge.
+Experienced Software Engineer with over 3 years of expertise in designing and developing scalable microservices for high-traffic applications, resulting in 20% faster performance. Proven track record in optimizing search functionalities, and migrating monolithic systems to microservices, reducing downtime by 30%. Skilled in full-stack development, including Frontend and Backend development.
