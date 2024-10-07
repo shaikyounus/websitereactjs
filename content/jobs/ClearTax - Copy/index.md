@@ -1,10 +1,10 @@
 ---
 date: '2'
-title: 'Web Development Intern'
-company: 'Aashram TechSol'
-location: 'Bangalore, India'
-range: 'March 2020 - June 2020 '
-url: 'https://www.ashramtech.com/'
+title: 'Software Engineer'
+company: 'GSS INFORMATICS'
+location: 'Hyderabad, India'
+range: 'January 2020 - June 2021 '
+url: 'https://www.gssi-usa.com/'
 ---
 
 - Modernized legacy UI technologies using React JS, Node.js, and AWS, improving application performance by 35% and reducing maintenance efforts by 20% in an Agile environment with regular sprints and daily stand-ups.
