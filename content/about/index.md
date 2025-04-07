@@ -3,12 +3,17 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Java
+  - Python
+  - Flask
+  - Django
+  - Redux
   - Kotlin
   - Node.js
   - Java Script
   - Node JS
   - Elastic Search
   - Kibana
+  - 
   - MySQL
   - AWS/HEROKU/Netlify
   - Ktor
