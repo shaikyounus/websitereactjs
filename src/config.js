@@ -9,8 +9,8 @@ module.exports = {
   googleAnalyticsID: 'UA-127188467-2',
   googleVerification: 'zWJzGMVk8J4FpXsLNpt7CB17SPaa2_ti9YfdGwnGr00',
   name: 'Shaik Mohammad Younus',
-  location: 'Guntur, India',
-  email: 'shaikyounusshaik@gmail.com',
+  location: 'Chicago, United States',
+  email: 'shaikmohammadyounus7@gmail.com',
   github: 'https://github.com/shaikyounus',
   twitterHandle: '@shaikyounus',
   socialMedia: [
