@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'Senior Full Stack Developer '
 company: 'First Citizen Bank'
 location: 'Raleigh, NC'
