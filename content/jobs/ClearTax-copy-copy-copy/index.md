@@ -1,9 +1,9 @@
 ---
 date: '4'
-title: 'Software Engineer III'
+title: 'Senior Software Engineer III'
 company: 'Shaadi'
 location: 'Mumbai, India'
-range: 'July 2021 - Present '
+range: 'Jan 2018 - Dec 2020 '
 url: 'https://shaadi.com/'
 ---
 
@@ -14,4 +14,4 @@ url: 'https://shaadi.com/'
 - Created scalable ShaadiMate application using React JS with ES6, enabling server-side and client-side rendering from the same codebase. Developed both web and mobile applications using React, React Native, and Redux.
 - Designed and deployed Spring Boot microservices applications on AWS EC2, employing Jenkins Pipelines and Docker Compose to streamline deployment, ensuring continuous integration and smooth production workflows.
 - Built Gradle dependencies for GitLab CI/CD pipelines, deploying them to AWS ECS, facilitating faster, more reliable deployment processes, and reducing system downtime during updates.
-- Tech Stack: Java, Kotlin, Spring Boot, Ktor, Redis, MySQL, ElasticSearch, Google Maps API, React JS, React Native, Redux, Junit, AWS EC2, Docker, DataDog, Jenkins, GitLab CI/CD.
+- Tech Stack: Java, Kotlin, Spring Boot, Ktor, Vue JS, Redis, MySQL, ElasticSearch, Google Maps API, React JS, React Native, Redux, Junit, AWS EC2, Docker, DataDog, Jenkins, GitLab CI/CD.
