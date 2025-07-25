@@ -103,7 +103,7 @@ const Footer = () => {
           href="https://github.com/shaikyounus"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Shaik Mohammad Younus | SDE III</div>
+          <div>Shaik Mohammad Younus | Senior Full Stack Developer</div>
 
         </StyledGitHubLink>
         <StyledGitHubInfo>
