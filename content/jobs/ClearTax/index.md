@@ -1,14 +1,18 @@
 ---
 date: '1'
-title: 'Technology Intern'
-company: '50Hands'
-location: 'Remote, Canada'
-range: 'May 2020 - October 2020 '
-url: 'https://www.KindBeings.in/'
+title: 'Senior Full Stack Developer '
+company: 'First Citizen Bank'
+location: 'Raleigh, NC'
+range: 'July 2021 - Jan 2024 '
+url: 'https://www.firstcitizens.com/'
 ---
 
-- Conducted trend analysis and tracking for COVID-19 cases across the USA, India, and Canada using public APIs, visualizing real-time data with Java Spring, React.js, and HTML/CSS, resulting in 40% faster data updates and enhanced clarity for 100,000+ users.
-- Preprocessed large datasets (over 500,000 records) with NumPy and Pandas, performing ETL processes and storing data in MySQL, improving data retrieval efficiency by 30% and reporting accuracy by 25%.
-- Enhanced web performance by implementing Redis caching, reducing redirects by 20%, and optimizing asynchronous loading, resulting in 15% faster response times and a smoother user experience.
-- Participated in all phases of the SDLC, from requirements gathering to design and development, utilizing core Java and multithreading techniques to build robust, scalable applications capable of handling a 50% increase in data traffic.
-- Tech Stack: Java, Spring, React.js, HTML, CSS, Python, NumPy, Pandas, MySQL, Redis, AWS Lambda.
+
+- Built and managed cloud-native ETL pipelines using Azure Data Factory, Databricks, and Spark (Scala) to ingest and process transactional and operational datasets.
+- Designed real-time data processing using Kafka and Spark Streaming, integrating financial transactions into Azure Synapse for downstream analytics.
+- Built real-time and batch pipelines to compute financial risk signals and operational metrics for ML consumption and anomaly detection.
+- Tuned large-scale Spark jobs and SQL queries over transactional datasets to reduce latency and resource usage across billions of rows.
+- Automated ITSM workflows by integrating Python scripts with ServiceNow APIs, reducing ticket resolution delays and manual tasks.
+- Built custom Power BI dashboards to track incident and change management metrics in real-time.
+- Designed and developed an internal HR management platform using React, Redux, and Flask, integrating payroll, employee reviews, and leave management features.
+
