@@ -8,17 +8,18 @@ skills:
   - Django
   - Redux
   - Kotlin
-  - Node.js
+  - Ktor
+  - Next JS
+  - React
+  - Redux
   - Java Script
   - Node JS
   - Elastic Search
   - Kibana
-  - 
   - MySQL
-  - AWS/HEROKU/Netlify
-  - Ktor
+  - AWS
+  - Azure
   - PHP
-  - REACT JS
   - Web development
   - Cloud Computing
   - Data Structures
@@ -30,8 +31,6 @@ skills:
   - SpringBoot
   - Redis Cache
   - Microservices
-  - AWS EC2
-  - AWS Cloud Watch
   - Vue JS
 ---
 
