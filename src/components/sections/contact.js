@@ -59,7 +59,7 @@ const Contact = ({ data }) => {
 
       <div dangerouslySetInnerHTML={{ __html: ht[0] }}/>
 
-      <StyledEmailLink href={`https://www.linkedin.com/in/shaikmohammadyounus/`} target="_blank" rel="nofollow noopener noreferrer">
+      <StyledEmailLink href={`https://www.linkedin.com/in/shaikyounus/`} target="_blank" rel="nofollow noopener noreferrer">
         {buttonText}
       </StyledEmailLink>
       <StyledTitle/>
