@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'SHAIK MOHAMMAD YOUNUS | Computer Science Undergraduate',
+  siteTitle: 'SHAIK MOHAMMAD YOUNUS | Senior Full Stack Developer',
   siteDescription:
     'Shaik Mohammad Younus is a software engineer based in Banglore, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/shaikmohammadyounus/',
+      url: 'https://www.linkedin.com/in/shaikyounus/',
     },
     
     {
