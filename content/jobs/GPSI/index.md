@@ -4,7 +4,7 @@ title: 'Lead Full Stack Developer'
 company: 'John Deere Des Moines Works'
 location: 'Ankeley,Iowa,United States'
 range: 'February 2024 - Present'
-url: ''
+url: 'https://www.deere.com/en/stories/featured/ankeny-manufacturing/'
 ---
 
 - Developed and deployed scalable microservices using Java 17 and Spring Boot 3.x, with Kafka for real-time message-driven architecture and Redis for low-latency data caching.
