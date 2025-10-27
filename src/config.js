@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'zWJzGMVk8J4FpXsLNpt7CB17SPaa2_ti9YfdGwnGr00',
   name: 'Shaik Mohammad Younus',
   location: 'United States',
-  email: 'shaikmohammadyounus7@gmail.com',
+  email: 'mohammadyounussk89@gmail.com',
   github: 'https://github.com/shaikyounus',
   twitterHandle: '@shaikyounus',
   socialMedia: [
