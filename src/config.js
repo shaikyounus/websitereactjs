@@ -9,7 +9,7 @@ module.exports = {
   googleAnalyticsID: 'UA-127188467-2',
   googleVerification: 'zWJzGMVk8J4FpXsLNpt7CB17SPaa2_ti9YfdGwnGr00',
   name: 'Shaik Mohammad Younus',
-  location: 'Chicago, United States',
+  location: 'United States',
   email: 'shaikmohammadyounus7@gmail.com',
   github: 'https://github.com/shaikyounus',
   twitterHandle: '@shaikyounus',
@@ -20,16 +20,16 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/shaikyounus/',
+      url: 'https://github.com/shaikyounus',
     },
     
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/shaikyounus',
+      url: 'https://github.com/shaikyounus',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/shaikyounus',
+      url: 'https://github.com/shaikyounus',
     },
 
   ],
