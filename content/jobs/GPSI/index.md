@@ -1,8 +1,8 @@
 ---
 date: '5'
-title: 'Senior Full Stack Developer'
-company: 'Broadcom Inc'
-location: 'Austin, Texas'
+title: 'UI UX Designer'
+company: 'Kraft Heinz'
+location: 'Chicago, IL'
 range: 'February 2024 - Present'
 url: ''
 ---
