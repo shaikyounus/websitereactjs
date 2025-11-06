@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'SHAIK MOHAMMAD YOUNUS | Senior UI/UX Developer',
   siteDescription:
-    'Shaik Mohammad Younus is a software engineer based in United States who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Shaik Mohammad Younus is a UI/UX Developer based in the United States who specializes in designing and building exceptional user experiences, intuitive interfaces, and visually engaging digital products across web and mobile platforms.',
   siteKeywords:
-    'Shaik Mohammad Younus, Younus, Shaik, mohammadyounus, software engineer, android developer, web developer, javascript',
+    'Shaik Mohammad Younus, Younus, Shaik, mohammadyounus, UI UX Developer, UX Designer, Product Designer, Frontend Developer, Web Designer, Figma, Adobe XD, User Experience, User Interface, Interaction Design',
   siteUrl: 'https://shaikmohammadyounus.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-127188467-2',
