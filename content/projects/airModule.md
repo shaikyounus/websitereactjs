@@ -1,19 +1,21 @@
 ---
-date: '2020-06-01'
+date: '2021-03-10'
 title: 'Android News App'
-github: 'https://github.com/shaikyounus/Android-News-App'
-external: 'https://youtu.be/-nXll4T79OI'
+github: 'https://github.com/shaikyounus/Android-NewsApp'
+external: ''
 tech:
-  - Android Studio
-  - Java
-  - XML
-company: ''
+  - Figma
+  - Adobe XD
+  - Material Design
+  - Prototyping
+  - User Research
+  - Interaction Design
+  - Mobile UI
+  - Usability Testing
 showInProjects: true
 ---
+A modern Android News App designed with a focus on readability, accessibility, and smooth user experience. The interface delivers real-time news updates through a clean, visually balanced layout that allows users to explore, search, and read articles effortlessly.
 
-The project Android News App developed on API Based using News API. 
+The app emphasizes information hierarchy, typography, and intuitive navigation, ensuring users stay engaged and informed without visual clutter. Designed following Material Design principles, the experience is consistent, responsive, and optimized for all screen sizes.
 
-The main aim of this project is to develop a fully functional News app in which we can go through the news content that is happening day-by-day.
-
-Here I have used News API that is a simple HTTP REST API for searching and retrieving live articles from all over the web.
-
+Prototyped using Figma and Adobe XD, incorporating user feedback and usability testing to refine interactions, color schemes, and micro-animations for better engagement and accessibility.
