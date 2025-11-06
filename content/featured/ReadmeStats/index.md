@@ -5,14 +5,17 @@ cover: './Screenshot.png'
 github: 'https://github.com/shaikyounus/Real-EstateWebsite'
 external: 'https://estatetestreal.herokuapp.com/'
 tech:
-  - Python
-  - Django
+  - Figma
+  - Adobe XD
+  - HTML5
+  - CSS3
   - Bootstrap
-  - Vanilla JS-ES6 
-  - JQuery
+  - JavaScript (ES6)
+  - Responsive Design
+  - User Research
+  - Prototyping
 showInProjects: true
 ---
+A real estate listings platform designed with a user-centered UI/UX approach to simplify property discovery and enhance digital engagement for buyers, sellers, and realtors.
 
-A real estate listings website built using Python Django framework.
-This website bring convenience to buyers and exposure to sellers. Buyers can view property images, features and can enquiry before they ever need to schedule a live tour. Sellers who post their homes on these sites benefit for the same reason; hundreds or thousands of prospective buyers can view their home online without needing to walk through. Realtors can advertise on the website to generate leads.
-Admin Panel monitors the Realtors, Property listings and the buyers.
+The platform provides an intuitive interface where buyers can easily browse high-quality property images, filter listings by key features, and send quick inquiries without scheduling a live visit. Sellers benefit from a streamlined posting flow that maximizes property visibility, while realtors gain opportunities to advertise and generate quality leads through visually appealing layouts.
