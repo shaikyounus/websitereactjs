@@ -2,40 +2,43 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Java
-  - Python
-  - Flask
-  - Django
-  - Redux
-  - Kotlin
-  - Ktor
-  - Next JS
+  - UI/UX Design
+  - Figma
+  - Adobe XD
+  - Sketch
+  - Miro
+  - Wireframing
+  - Prototyping
+  - User Research
+  - Usability Testing
+  - Interaction Design
+  - Information Architecture
+  - Frontend Development
+  - HTML5
+  - CSS3
+  - JavaScript
   - React
-  - Redux
-  - Java Script
-  - Node JS
-  - Elastic Search
-  - Kibana
-  - MySQL
-  - AWS
-  - Azure
-  - PHP
-  - Web development
-  - Cloud Computing
-  - Data Structures
-  - Git
-  - Python
-  - AWS DynamoDb
-  - Kibana
-  - GCP
-  - SpringBoot
-  - Redis Cache
-  - Microservices
-  - Vue JS
+  - Next JS
+  - Angular
+  - Tailwind CSS
+  - Bootstrap
+  - Responsive Design
+  - Accessibility (WCAG)
+  - UX Writing
+  - Product Design
+  - Design Systems
+  - Visual Design
+  - Microinteractions
+  - Storybook
+  - UX Analytics
+  - Jira
+  - Agile / Scrum
 ---
 
-Hello! I'm Younus. Full Stack Developer with experience in Java, Node.js, Spring Boot, AWS, and Microservices Architecture. Strong expertise in both front-end and back-end technologies, cloud-native services, CI/CD pipelines, and AI integrations using LangChain, LLaMA 2/3, Hugging Face, and Vector Databases (FAISS, ChromaDB). Experienced in signal computation, scalable backend services, and data infrastructure for ML and content quality systems. Strong ability to refactor legacy code, optimize SQL across billions of rows, and deliver end-to-end features with no QA support. Strong front-end skills with hands-on experience using Vue.js, Nuxt.js, Tailwind CSS, and Vuex/Pinia to build modern, performant web applications. Proficient in component testing using Jest and Vue Test Utils, with code quality enforced via ESLint and SonarLint.Proven track record delivering scalable, secure, and performant web applications, APIs, and event-driven systems in Agile/Scrum environments. Adept at implementing DevOps practices, developing containerized solutions using Docker/Kubernetes, and monitoring applications using Grafana, Prometheus, and ELK.
+Hello! I'm Younus, a UI/UX Developer with over a decade of experience crafting intuitive, accessible, and visually engaging digital products. I specialize in designing and developing user-centered interfaces that balance aesthetics, usability, and performance across web and mobile platforms.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
+I blend creative design thinking with front-end development expertise to deliver pixel-perfect, production-ready solutions. My workflow bridges the gap between design and code — from user research, wireframing, and prototyping in Figma/Adobe XD to building responsive, scalable interfaces using React, Next.js, and Tailwind CSS.
 
-Here are a few technologies I've been working with recently:
+I’ve collaborated with cross-functional teams in Agile/Scrum environments to design enterprise dashboards, e-commerce platforms, and SaaS applications — optimizing user journeys and improving accessibility (WCAG standards). My approach focuses on empathy-driven design, iterative testing, and crafting seamless experiences that delight users and drive business outcomes.
+
+I enjoy turning complex problems into simple, elegant designs that make users’ lives easier and more engaging.
