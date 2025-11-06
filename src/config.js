@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'SHAIK MOHAMMAD YOUNUS | Senior Full Stack Developer',
+  siteTitle: 'SHAIK MOHAMMAD YOUNUS | Senior UI/UX Developer',
   siteDescription:
     'Shaik Mohammad Younus is a software engineer based in United States who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
