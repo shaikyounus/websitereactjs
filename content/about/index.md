@@ -1,44 +1,36 @@
----
 title: 'About Me'
 avatar: './me.jpg'
+
 skills:
-  - UI/UX Design
-  - Figma
-  - Adobe XD
-  - Sketch
-  - Miro
-  - Wireframing
-  - Prototyping
-  - User Research
-  - Usability Testing
-  - Interaction Design
-  - Information Architecture
-  - Frontend Development
-  - HTML5
-  - CSS3
+  - Mendix Development
+  - Microflows / Nanoflows
+  - Domain Modeling
+  - REST / SOAP Integrations
+  - SQL / Database Queries
+  - XML / XSD
+  - JSON / API Development
+  - HTML
   - JavaScript
-  - React
-  - Next JS
-  - Angular
-  - Tailwind CSS
-  - Bootstrap
-  - Responsive Design
-  - Accessibility (WCAG)
-  - UX Writing
-  - Product Design
-  - Design Systems
-  - Visual Design
-  - Microinteractions
-  - Storybook
-  - UX Analytics
-  - Jira
+  - Microsoft SQL Server
+  - Microsoft Access
+  - ITIL
+  - ServiceNow
+  - FootPrints
   - Agile / Scrum
+  - Requirements Gathering
+  - Production Support
+  - Deployment & Environment Management
+  - Debugging & Root Cause Analysis
+  - Documentation & Release Notes
+  - Adobe Acrobat Pro
+  - LexisNexis InterAction CRM
+
 ---
 
-Hello! I'm Younus, a UI/UX Developer with over a decade of experience crafting intuitive, accessible, and visually engaging digital products. I specialize in designing and developing user-centered interfaces that balance aesthetics, usability, and performance across web and mobile platforms.
+Hello! I'm Younus, a Mendix Developer with 8+ years of experience designing, developing, and supporting enterprise low-code applications in the insurance, healthcare, manufacturing, and financial industries. I specialize in building scalable Mendix applications, integrating backend systems, and automating complex business workflows using microflows, domain models, and API integrations.
 
-I blend creative design thinking with front-end development expertise to deliver pixel-perfect, production-ready solutions. My workflow bridges the gap between design and code — from user research, wireframing, and prototyping in Figma/Adobe XD to building responsive, scalable interfaces using React, Next.js, and Tailwind CSS.
+My expertise includes end-to-end Mendix development — from requirement analysis, data modeling, UI configuration, and microflow logic to production support, performance optimization, and deployment activities across multi-environment pipelines. I work extensively with SQL, XML/XSD, REST APIs, ITIL processes, and enterprise support tools such as ServiceNow and FootPrints.
 
-I’ve collaborated with cross-functional teams in Agile/Scrum environments to design enterprise dashboards, e-commerce platforms, and SaaS applications — optimizing user journeys and improving accessibility (WCAG standards). My approach focuses on empathy-driven design, iterative testing, and crafting seamless experiences that delight users and drive business outcomes.
+I have delivered solutions for major clients including Siemens, Zurich Insurance, and ConocoPhillips — improving operational efficiency, automating manual processes, and modernizing legacy systems. I collaborate closely with cross-functional teams in Agile/Scrum environments to ensure high-quality, reliable, and maintainable Mendix applications.
 
-I enjoy turning complex problems into simple, elegant designs that make users’ lives easier and more engaging.
+I enjoy solving complex workflow problems and transforming business requirements into stable, production-ready Mendix solutions.
