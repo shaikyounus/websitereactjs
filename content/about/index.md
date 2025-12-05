@@ -1,3 +1,5 @@
+---
+
 title: 'About Me'
 avatar: './me.jpg'
 
@@ -26,3 +28,5 @@ skills:
   - Adobe Acrobat Pro
   - PDF Form Automation
   - LexisNexis InterAction (CRM)
+
+---
