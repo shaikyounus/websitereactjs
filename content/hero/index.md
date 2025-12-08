@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Mohammad Younus Shaik'
-subtitle: 'UI/UX Developer'
+subtitle: 'Mendix Developer'
 buttonText: 'Get In Touch'
 ---
-Experienced UI/UX Developer with expertise in designing and developing intuitive, responsive, and accessible user interfaces that enhance user engagement and product performance. Proven track record in creating scalable design systems and optimizing user flows, resulting in a 25% improvement in task efficiency and 20% higher user satisfaction. Skilled in end-to-end design and front-end development, from user research and prototyping to pixel-perfect implementation using Figma, Adobe XD, React, and Tailwind CSS. Experienced in collaborating across banking, healthcare, and enterprise domains, delivering human-centered digital experiences that align with both user needs and business goals.
+Experienced Mendix Developer with 6+ years of expertise in designing, developing, and supporting scalable low-code enterprise applications across manufacturing, insurance, and energy domains. Proven track record in building robust domain models, microflows, nanoflows, and REST integrations, delivering automation for policy & claims processing, manufacturing workflows, inspections, document generation, and operational systems. Strong background in application modernization, production support, and ITIL-based incident management, ensuring high system reliability and SLA compliance. Highly skilled in Agile/Scrum delivery, stakeholder collaboration, and secure application design, driving successful digital transformation initiatives for Fortune 500 clients including Siemens, Zurich Insurance, and ConocoPhillips.
