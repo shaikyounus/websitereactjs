@@ -4,21 +4,21 @@ title: 'Court Case Management System'
 github: 'https://github.com/shaikyounus/Court_Case_Management'
 external: 'http://court-case-management.infinityfreeapp.com/'
 tech:
-  - Figma
-  - Adobe XD
-  - HTML5
-  - CSS3
-  - Bootstrap
-  - UX Research
-  - Wireframing
-  - Prototyping
-  - Usability Testing
+  - Mendix 9
+  - Domain Modeling
+  - Microflows & Nanoflows
+  - Workflow Automation
+  - REST API Integration
+  - Role-Based Security
+  - XPath
+  - JSON
+  - SQL Server
+  - Responsive UI (Mendix Pages)
+  - Agile/Scrum
 showInProjects: true
 ---
-A Court Case Management System designed to simplify interactions between clients, lawyers, and administrators through an intuitive and accessible digital interface.
+A low-code Court Case Management System developed using Mendix to digitally manage legal cases, client requests, lawyer assignments, hearings, and administrative workflows through secure, scalable business processes.
 
-The platform focuses on streamlining legal workflows — allowing clients to easily register complaints, select lawyers, and track case updates in real time. The design ensures clarity and trust through a clean layout, visual hierarchy, and simplified navigation for users with varying technical backgrounds.
+The application enables clients to register complaints, track case status, upload documents, and receive real-time updates. Lawyers use role-based dashboards to manage assigned cases, hearing schedules, and invoices. Administrators control court assignments, hearing dates, user access, and overall system operations through automated microflows.
 
-Lawyers benefit from a tailored dashboard that helps manage assigned cases, invoices, and schedules efficiently. Administrators have an organized control panel to update hearing dates, assign courts, and oversee lawyer activities.
-
-This project highlights a user-centered design approach, built around accessibility, responsiveness, and intuitive data visualization — ensuring all stakeholders can navigate complex legal information effortlessly across devices.
+The system implements end-to-end workflow automation using microflows, role-based access control for Clients, Lawyers, and Admins, and optimized domain models with XPath queries for high performance. It also integrates with external systems using REST APIs (JSON) for notifications and document exchange. This solution demonstrates enterprise-grade process automation, security, and case lifecycle management using Mendix.
