@@ -31,9 +31,9 @@ skills:
   - FootPrints
   - Documentation & Release Notes
   - Code Review
-  - Agile / Scrum
-  - Adobe Acrobat Pro
-  - PDF Form Automation
-  - LexisNexis InterAction (CRM)
+
+---
+
+I am a Senior Mendix Developer with over 6 years of experience building scalable, production-grade low-code applications. My expertise spans enterprise application modernization, legacy system replacement, solution architecture, and implementation of Mendix apps for global manufacturing and industrial operations.
 
 ---
