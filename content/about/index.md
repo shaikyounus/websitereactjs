@@ -10,6 +10,13 @@ skills:
   - Mendix UI & Page Modeling
   - REST / SOAP Integrations
   - XML / XSD
+  - Low-Code Solution Architecture
+  - Legacy System Modernization
+  - Manufacturing & Industrial Systems
+  - Microflows & Nanoflows
+  - API Integrations (REST, SOAP, OData)
+  - Persona-Based Design Thinking
+  - Team Leadership & Mentorship
   - JSON
   - SQL
   - Microsoft SQL Server
