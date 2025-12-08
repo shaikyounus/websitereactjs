@@ -1,9 +1,9 @@
 ---
 date: '4'
-title: 'UI UX Designer '
-company: 'HPE'
-location: 'Spring, TX'
-range: 'Jul 2020 - Jan 2024 '
+title: 'Mendix Developer'
+company: 'Zurich Insurance'
+location: 'Schaumburg, Illinois	'
+range: 'Jul 2020 – Jan 2022'
 url: ''
 ---
 
