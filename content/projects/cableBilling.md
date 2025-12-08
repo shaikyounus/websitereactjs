@@ -6,18 +6,20 @@ external: ''
 android: ''
 ios: ''
 tech:
-  - Figma
-  - Adobe XD
-  - Responsive Design
-  - UX Research
-  - Prototyping
-  - Accessibility
-  - Cloud Interface Design
-  - AWS EC2 (Deployment)
+  - Mendix 9
+  - Domain Modeling
+  - Microflows & Nanoflows
+  - REST API Integration
+  - Role-Based Security
+  - XPath
+  - JSON
+  - SQL Server
+  - AWS EC2 (Mendix Deployment)
+  - Agile/Scrum
 showInProjects: true
 ---
-A web-based cloud management interface conceptualized and designed to simplify the deployment and monitoring of web projects on AWS. The focus of the project was to create an intuitive, visually clear dashboard that allows users to easily understand deployment status, resource utilization, and system health.
+A low-code cloud deployment and monitoring platform developed using Mendix to manage application deployments, system health, and resource utilization on AWS infrastructure through secure, scalable workflows.
 
-The design process emphasized clarity, responsiveness, and accessibility, ensuring seamless usability across various screen sizes and devices. Prototyped in Figma and Adobe XD, the layout and interactions were structured to provide real-time visibility for both technical and non-technical users.
+The platform enables administrators to deploy applications on AWS EC2, monitor application status, track CPU and memory usage, and manage environment-level configurations through role-based dashboards. Automated microflows handle deployment status updates, health checks, and alert notifications for system failures.
 
-Deployed using AWS EC2, the interface demonstrates how effective UI/UX design principles can enhance user interaction even within cloud infrastructure environments.
+The application integrates with AWS services using REST APIs (JSON) to fetch real-time infrastructure metrics, applies role-based access control for Admin and Operator roles, and uses optimized domain models with XPath queries for high performance. The solution demonstrates enterprise-grade cloud monitoring, automation, and integration using Mendix on AWS.
