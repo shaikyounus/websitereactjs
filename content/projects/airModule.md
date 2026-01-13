@@ -4,20 +4,20 @@ title: 'Android News App'
 github: 'https://github.com/shaikyounus/Android-NewsApp'
 external: ''
 tech:
-  - Mendix 9
-  - Domain Modeling
-  - Microflows & Nanoflows
-  - REST API Integration
-  - Role-Based Security
-  - XPath
+  - Java
+  - Spring Boot
+  - RESTful APIs
   - JSON
+  - Role-Based Access Control (RBAC)
   - SQL Server
-  - Responsive UI (Mendix Pages)
+  - Android (Java)
+  - Backend Workflow Automation
+  - API Integration
   - Agile/Scrum
 showInProjects: true
 ---
-A low-code enterprise news and content management platform developed using Mendix to deliver real-time news publishing, content moderation, and personalized article distribution through secure, scalable workflows.
+A full-stack news and content management platform designed and developed using a Java-based backend and Android frontend to deliver real-time news publishing, moderation, and personalized content distribution through secure and scalable APIs.
 
-The application allows content editors to publish and manage news articles, administrators to approve and moderate content, and end users to browse categorized news, search articles, and view real-time updates. Automated microflows control article publishing, approval workflows, and notification triggers, ensuring fast and reliable content delivery.
+The application enables content editors to create and manage news articles, administrators to review and approve content, and end users to browse categorized news, search articles, and receive real-time updates through the mobile application. Backend services handle publishing workflows, approval logic, and notification triggers to ensure reliable and timely content delivery.
 
-The platform integrates with external news APIs using REST (JSON) for real-time content ingestion, implements role-based security for Admin, Editor, and Reader users, and uses optimized domain models and XPath queries for high performance. This solution demonstrates enterprise-grade workflow automation, data security, and system integration using Mendix.
+The platform integrates with external news provider APIs using RESTful services and JSON-based data exchange for real-time content ingestion. It implements role-based access control for Admin, Editor, and Reader users, and leverages optimized relational database schemas and indexed queries in SQL Server for performance and scalability. This project demonstrates full-stack development expertise in backend service design, API integration, security, and mobile application support.
