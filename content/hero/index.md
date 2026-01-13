@@ -1,7 +1,11 @@
 ---
 title: 'Hi, my name is'
 name: 'Mohammad Younus Shaik'
-subtitle: 'Mendix Developer'
+subtitle: 'Senior Software Engineer'
 buttonText: 'Get In Touch'
 ---
-Experienced Mendix Developer with 6+ years of expertise in designing, developing, and supporting scalable low-code enterprise applications across manufacturing, insurance, and energy domains. Proven track record in building robust domain models, microflows, nanoflows, and REST integrations, delivering automation for policy & claims processing, manufacturing workflows, inspections, document generation, and operational systems. Strong background in application modernization, production support, and ITIL-based incident management, ensuring high system reliability and SLA compliance. Highly skilled in Agile/Scrum delivery, stakeholder collaboration, and secure application design, driving successful digital transformation initiatives for Fortune 500 clients including Siemens, Zurich Insurance, and ConocoPhillips.
+Senior Software Engineer with 12+ years of experience designing, developing, and supporting scalable, production-grade enterprise applications across e-commerce, retail, banking, and media domains. Proven expertise in building cloud-native backend systems using Java (8–17), Spring Boot, microservices architecture, and API-driven platforms.
+
+Strong track record in application modernization, decomposing legacy monoliths into resilient microservices, and delivering high-performance REST and GraphQL APIs that support millions of users. Experienced in distributed systems, event-driven architectures, and data-intensive applications, with a focus on reliability, scalability, and secure system design.
+
+Extensive background in production support, CI/CD automation, and ITIL-aligned incident management, ensuring high availability, operational stability, and SLA compliance. Highly effective in Agile/Scrum environments, collaborating with cross-functional teams and stakeholders to drive large-scale digital transformation initiatives for Fortune 500 clients including Walmart, Amazon, Dish Network, and Comerica Bank.
