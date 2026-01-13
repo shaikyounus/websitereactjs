@@ -1,9 +1,9 @@
 ---
 date: '2'
 title: 'Analyst Intern'
-company: 'State Of Illinois'
-location: 'Illinois'
-range: 'May 2017 - Jul 2017'
+company: 'Comerica Bank'
+location: 'Dallas, Texas'
+range: 'Jan 2013 - May 2016'
 url: ''
 ---
 
