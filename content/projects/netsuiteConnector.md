@@ -4,18 +4,19 @@ title: 'Voice to Visual'
 github: 'https://github.com/shaikyounus/Voice-To-Visual'
 external: ''
 tech:
-  - Figma
-  - Adobe XD
-  - Interaction Design
-  - Accessibility Design
-  - Voice UI
-  - Usability Testing
-  - Prototype Design
+  - Java
+  - Python
+  - Speech-to-Text APIs
+  - RESTful APIs
+  - Real-Time Data Processing
+  - Web UI Development
+  - Accessibility Standards (WCAG)
   - Information Visualization
+  - System Integration
 showInProjects: true
 ---
-A voice-to-visual assistive interface designed to enhance accessibility and information delivery in public spaces such as railway stations. The system converts real-time voice announcements into visual text displays on LCD screens, ensuring that hearing-impaired individuals and non-native speakers can easily receive critical information.
+A software-driven voice-to-visual accessibility system designed and implemented to convert real-time voice announcements into visual text displays for public environments such as railway stations. The solution improves accessibility for hearing-impaired users and non-native speakers by delivering critical information through synchronized visual channels.
 
-The project focused on inclusive design and multimodal interaction, combining voice recognition technology with clear, legible, and high-contrast visual layouts. Prototyped in Figma and Adobe XD, emphasizing readability, color contrast, and spatial hierarchy for visibility in busy environments.
+The system processes live audio streams using speech-to-text services, transforms recognized speech into structured text data, and distributes updates to connected display clients through RESTful APIs and real-time messaging. Backend services handle message ingestion, processing, and formatting to ensure low-latency and reliable updates.
 
-This project showcases how UI/UX design principles can bridge accessibility gaps and make public information systems more inclusive and user-friendly.
+The application presents announcements on LCD and web-based displays using accessible, high-contrast layouts aligned with WCAG guidelines. This project demonstrates software engineering skills in real-time data processing, API integration, accessibility-focused system design, and full-stack delivery for public information systems.
